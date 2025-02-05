@@ -9463,6 +9463,7 @@ function ip() {
     e.style.pointerEvents = "none",
     document.body.appendChild(e),
     e
+     document.body.style.backgroundImage = "fondo2.jpg";
 }
 function op(e) {
     var t = e.confettiRadius
