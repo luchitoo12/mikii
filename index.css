@@ -416,7 +416,7 @@ img,video {
 }
 
 .fondo {
-    background-image: url(/fondo2.jpg)
+    background-image: url(fondo2.jpg)
 }
 
 @media (min-width: 768px) {
